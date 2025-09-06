@@ -1,4 +1,4 @@
-# 🚀 AngkorScanBugCDN v1.1
+# 🚀 AngkorSSH SCAN v1.1
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/) 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
@@ -49,8 +49,29 @@ Step 4 – ចូលទៅក្នុង Folder Project
 ```bash
 cd AngkorScanBugCDN
 ```
-
 Step 5 – Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
+## ▶️ Usage
+
+ចូលទៅក្នុង folder រួចរត់៖
+```bash
+python scan.py
+```
+---
+
+## 📸 Demo
+
+
+
+
+![AngkorScan Demo](./demo.gif)
+
+
+---
+
+## ⚠️ Disclaimer
+
+ឧបករណ៍នេះមានគោលបំណង ស្រាវជ្រាវ និងអប់រំ ប៉ុណ្ណោះ។
+ការប្រើប្រាស់ខុសច្បាប់ គឺជាការទទួលខុសត្រូវរបស់អ្នកប្រើប្រាស់ផ្ទាល់។
