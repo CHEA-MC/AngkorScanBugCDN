@@ -28,9 +28,29 @@ AngkorScanBugCDN គឺជាឧបករណ៍សម្រាប់ស្រា
 
 ## 📦 Installation
 
-Clone repository និងដំឡើង dependencies៖  
+🔹 On Termux (Android)
 
+Step 1 – Update & Upgrade packages
+```bash
+pkg update && pkg upgrade -y
+```
+
+Step 2 – Install git និង python
+```bash
+pkg install git python -y
+```
+
+Step 3 – Clone Repository
 ```bash
 git clone https://github.com/CHEA-MC/AngkorScanBugCDN.git
+```
+
+Step 4 – ចូលទៅក្នុង Folder Project
+```bash
 cd AngkorScanBugCDN
+```
+
+Step 5 – Install Dependencies
+```bash
 pip install -r requirements.txt
+```
